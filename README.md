@@ -4,6 +4,7 @@
 
 ### 打包
 ./gradlew bootJar
+
 java -jar 
 
 [部署为可运行的jar/linux脚本](https://www.cnblogs.com/woshimrf/p/5887293.html)
@@ -16,6 +17,8 @@ java -jar
 ### https ssl相关
 
 [常见免费SSL类型](http://www.freehao123.com/free-ssl-paihang/)
+
 [实战申请Let's Encrypt永久免费SSL证书过程教程及常见问题](http://www.laozuo.org/7676.html)
+
 [另一个方案trustasia](https://www.trustasia.com/trustasia)
 
