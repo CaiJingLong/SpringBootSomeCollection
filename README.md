@@ -20,10 +20,12 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 ### docker
 [docker](http://www.runoob.com/docker/centos-docker-install.html)
+
 [gogs安装](https://www.linuxidc.com/Linux/2016-04/130600.htm)
 
 ### nginx
 [安装/启动](https://blog.csdn.net/oldguncm/article/details/78855000)
+
 [强制转发http到https](https://www.cnblogs.com/kevingrace/p/6187072.html)
 
 ### ssh 免密登陆
