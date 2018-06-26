@@ -38,3 +38,4 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 [另一个方案trustasia](https://www.trustasia.com/trustasia)
 
+[dnspod api](https://www.dnspod.cn/console/user/security?)
