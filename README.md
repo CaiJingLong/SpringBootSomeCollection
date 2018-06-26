@@ -24,6 +24,7 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 ### nginx
 [安装/启动](https://blog.csdn.net/oldguncm/article/details/78855000)
+[强制转发http到https](https://www.cnblogs.com/kevingrace/p/6187072.html)
 
 ### ssh 免密登陆
 [SSH 使用密钥登录并禁止口令登录](https://www.cnblogs.com/elesos/p/6266871.html)
