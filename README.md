@@ -12,6 +12,7 @@ java -jar
 ## centos
 
 ### docker
+[docker](http://www.runoob.com/docker/centos-docker-install.html)
 [gogs安装](https://www.linuxidc.com/Linux/2016-04/130600.htm)
 
 ### nginx
