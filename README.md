@@ -9,6 +9,13 @@ java -jar
 
 [部署为可运行的jar/linux脚本](https://www.cnblogs.com/woshimrf/p/5887293.html)
 
+## linux 命令
+
+### 后台开启gogs
+```
+nohup ./gogs web > log/mylog.log 2>&1 &
+```
+
 ## centos
 
 ### docker
