@@ -36,6 +36,8 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 [实战申请Let's Encrypt永久免费SSL证书过程教程及常见问题](http://www.laozuo.org/7676.html)
 
+[nginx 配置https](http://www.laozuo.org/11696.html)
+
 [另一个方案trustasia](https://www.trustasia.com/trustasia)
 
 [dnspod api](https://www.dnspod.cn/console/user/security?)
