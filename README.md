@@ -44,3 +44,6 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 [另一个方案trustasia](https://www.trustasia.com/trustasia)
 
 [dnspod api](https://www.dnspod.cn/console/user/security?)
+
+### 服务
+[centos 7.x编写开机启动服务](https://www.cnblogs.com/lycokcc/p/5239318.html)
