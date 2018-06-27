@@ -47,3 +47,5 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 ### 服务
 [centos 7.x编写开机启动服务](https://www.cnblogs.com/lycokcc/p/5239318.html)
+
+[使用服务启动java jar项目](https://blog.csdn.net/y799924439/article/details/80230783)
