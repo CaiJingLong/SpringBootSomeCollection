@@ -35,15 +35,15 @@ nohup ./gogs web > log/mylog.log 2>&1 &
 
 [常见免费SSL类型](http://www.freehao123.com/free-ssl-paihang/)
 
-[申请Let's Encrypt 泛域名证书](http://www.laozuo.org/11668.html)
+[申请Let's Encrypt 泛域名证书 (推荐)](http://www.laozuo.org/11668.html) 
+
+[dnspod api](https://www.dnspod.cn/console/user/security?)
 
 [实战申请Let's Encrypt永久免费SSL证书过程教程及常见问题](http://www.laozuo.org/7676.html)
 
 [nginx 配置https](http://www.laozuo.org/11696.html)
 
 [另一个方案trustasia](https://www.trustasia.com/trustasia)
-
-[dnspod api](https://www.dnspod.cn/console/user/security?)
 
 ### 服务
 [centos 7.x编写开机启动服务](https://www.cnblogs.com/lycokcc/p/5239318.html)
